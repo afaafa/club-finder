@@ -1,1 +1,1 @@
-latihan javascript Dicoding Indonesia
+study javascript from Front-End Web Developer class by Dicoding Academy Indonesia (dicoding.com)
